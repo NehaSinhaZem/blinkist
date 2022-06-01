@@ -1,0 +1,12 @@
+.storybook-input--large{
+    width: 50vw;
+    height: auto;
+}
+.storybook-input--small{
+    width: 30vh;
+    height: auto;
+}
+.storybook-input--medium{
+    width: 40vh;
+    height: auto;
+}

@@ -1,0 +1,9 @@
+.button--small{
+    width: fit-content;
+}
+.button--medium{
+    width:max-content;
+}
+.button--large{
+    width: 100%;
+}
